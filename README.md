@@ -1,7 +1,10 @@
-# test coverage for  [youtube-api (v2.0.8)](https://github.com/IonicaBizau/youtube-api)  [![npm package](https://img.shields.io/npm/v/npmtest-youtube-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-youtube-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-youtube-api.svg)](https://travis-ci.org/npmtest/node-npmtest-youtube-api)
+# npmtest-youtube-api
+
+#### test coverage for  [youtube-api (v2.0.8)](https://github.com/IonicaBizau/youtube-api)  [![npm package](https://img.shields.io/npm/v/npmtest-youtube-api.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-youtube-api) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-youtube-api.svg)](https://travis-ci.org/npmtest/node-npmtest-youtube-api)
+
 #### A Node.JS module, which provides an object oriented wrapper for the Youtube v3 API.
 
-[![NPM](https://nodei.co/npm/youtube-api.png?downloads=true)](https://www.npmjs.com/package/youtube-api)
+[![NPM](https://nodei.co/npm/youtube-api.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/youtube-api)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-youtube-api/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-youtube-api/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-youtube-api/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-youtube-api/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-youtube-api/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-youtube-api/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-youtube-api/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-youtube-api/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-youtube-api/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-youtube-api/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-youtube-api%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-youtube-api/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-youtube-api/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-youtube-api/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-youtube-api/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-youtube-api%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-youtube-api/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-youtube-api/build/test-report.html](https://npmtest.github.io/node-npmtest-youtube-api/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-youtube-api/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-youtube-api/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-youtube-api/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-youtube-api/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-youtube-api/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-youtube-api/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-youtube-api/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +37,6 @@
 {
     "author": {
         "name": "Ionică Bizău",
-        "email": "bizauionica@gmail.com",
         "url": "https://ionicabizau.net"
     },
     "blah": {
@@ -109,30 +117,24 @@
     },
     "contributors": [
         {
-            "name": "Ionică Bizău",
-            "email": "bizauionica@gmail.com"
+            "name": "Ionică Bizău"
         },
         {
             "name": "Adam",
-            "email": "aaschodd@asu.edu",
             "url": "brutalhonesty"
         },
         {
-            "name": "Michael Scharl",
-            "email": "developeme@gmail.com"
+            "name": "Michael Scharl"
         },
         {
             "name": "Vels",
-            "email": "velshome@yahoo.com",
             "url": "velsa"
         },
         {
-            "name": "Rasmus Karlsson",
-            "email": "pajlada@bithack.se"
+            "name": "Rasmus Karlsson"
         },
         {
-            "name": "Brad Oyler",
-            "email": "bradoyler@gmail.com"
+            "name": "Brad Oyler"
         }
     ],
     "dependencies": {
@@ -177,13 +179,11 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "ionicabizau",
-            "email": "bizauionica@yahoo.com"
+            "name": "ionicabizau"
         }
     ],
     "name": "youtube-api",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/IonicaBizau/youtube-api.git"
