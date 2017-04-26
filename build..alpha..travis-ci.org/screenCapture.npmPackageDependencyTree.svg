@@ -99,7 +99,7 @@
 <tspan x="10" y="1546">    │ │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="1562">    │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1578">    │ │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="1594">    │ │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="1594">    │ │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="1610">    │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1626">    │ │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="1642">    │ │   ├── jsbn@0.1.1 </tspan>
